@@ -61,6 +61,7 @@ if lorr == "1":
     # 用户登录
     login_user(file_path)
 else:
+    #用户注册
     register_user(file_path)
 
 
